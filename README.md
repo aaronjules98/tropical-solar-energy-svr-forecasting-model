@@ -12,7 +12,7 @@ The model script was written in MATLAB R2019a using [MATLAB Live Editor](https:/
 
 ## Directory
 * [__/ModelResults/__](/ModelResults/) - contains the .mat files of the results from executing the model
-* [__/RawData/__](/RawData/) - contains the .csv files of the downloaded raw data from NREL's NSRDB database
+* [__/RawData/__](/RawData/) - contains the .csv files of the downloaded raw data from NSRDB
 * [__/SolarEnergyForecastingModel__](/SolarEnergyForecastingModel.mlx) - contains the .mlx file of the model script written in MATLAB R2019a's Live Editor
 
 ## Contact Details
